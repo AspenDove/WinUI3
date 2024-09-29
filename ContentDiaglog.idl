@@ -1,0 +1,9 @@
+namespace App4
+{
+    [default_interface]
+    runtimeclass ContentDiaglog : Microsoft.UI.Xaml.Controls.Page
+    {
+        ContentDiaglog();
+        Int32 MyProperty;
+    }
+}

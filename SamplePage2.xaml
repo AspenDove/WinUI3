@@ -1,5 +1,5 @@
 ﻿<Page
-    x:Class="App4.HomePage"
+    x:Class="App4.SamplePage2"
     xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
     xmlns:local="using:App4"
@@ -9,6 +9,6 @@
 
     <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center">
         <!--<Button x:Name="Button" Click="ClickHandler">Click Me</Button>-->
-        <TextBlock Text="主页面啥也没有😄" FontSize="30"/>
+        <TextBlock Text="这是页面2" FontSize="30"/>
     </StackPanel>
 </Page>

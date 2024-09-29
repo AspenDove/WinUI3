@@ -1,0 +1,9 @@
+namespace App4
+{
+    [default_interface]
+    runtimeclass SamplePage2 : Microsoft.UI.Xaml.Controls.Page
+    {
+        SamplePage2();
+        Int32 MyProperty;
+    }
+}

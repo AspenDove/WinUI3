@@ -6,6 +6,10 @@
   <ItemGroup>
     <Page Include="MainWindow.xaml" />
     <Page Include="BlankPage.xaml" />
+    <Page Include="SamplePage1.xaml" />
+    <Page Include="SamplePage2.xaml" />
+    <Page Include="HomePage.xaml" />
+    <Page Include="AccountPage.xaml" />
   </ItemGroup>
   <ItemGroup>
     <Midl Include="MainWindow.idl" />

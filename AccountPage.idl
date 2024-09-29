@@ -1,0 +1,9 @@
+namespace App4
+{
+    [default_interface]
+    runtimeclass AccountPage : Microsoft.UI.Xaml.Controls.Page
+    {
+        AccountPage();
+        Int32 MyProperty;
+    }
+}
